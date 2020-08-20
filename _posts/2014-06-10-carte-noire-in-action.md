@@ -4,12 +4,11 @@ title:      Temas de interés
 date:       17/08/2020
 summary:    See what the different elements looks like.
 categories: jekyll
-thumbnail: cogs
+thumbnail: books
 tags:
- - demo
- - action
- - carte
- - noire
+ - Inteligencia
+ - Educación
+ - Tecnológico
 ---
 
 ### La inteligencia emocional
