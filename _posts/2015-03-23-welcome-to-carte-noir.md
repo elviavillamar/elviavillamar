@@ -2,7 +2,7 @@
 layout:     post
 title:      BIOGRAFÍA
 date:       17/08/2020
-author:     Jacob Tomlinson
+author:     Elvia Villamar
 summary:    Carte Noire is a dark blog theme for Jekyll focusing on a clear reading experience.
 categories: jekyll
 thumbnail:  heart
