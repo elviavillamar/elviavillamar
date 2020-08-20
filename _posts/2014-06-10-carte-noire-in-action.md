@@ -22,11 +22,15 @@ Es la capacidad para identificar, entender y manejar las emociones correctamente
 
 Es clave en la sociedad, pues enseña a las personas cómo gestionar su propio dinero, dotándolas de herramientas que les permitan una gestión económica responsable y beneficiosa para la sociedad. Dentro de la educación financiera, hay un movimiento que está sumando cada vez más seguidores a la libertad financiera. De esta forma puedes crear tu propia estrategia que te permita, poco a poco, alcanzar el deseable estado de libertad financiera.
 
+![Thumper](https://finanzasdecasa.files.wordpress.com/2018/11/educacion-finaiciera-300x200.png?resize=300%2C200)
+
 ### El Cambio Tecnológico
 
 hace referencia a la incorporación de nuevas tecnologías, formas de uso, nuevas reglamentaciones y nuevos productos derivados de la tecnología. Es un proceso temporal y acumulativo, que incrementa la habilidad de los grupos para resolver sus problemas sociales, económicos y cotidianos.
 
-### Images look great, too
+![Thumper](https://www.managementsociety.net/wp-content/uploads/2017/01/2-NEWS-29-ABRIL.png)
+
+
 
 
 
