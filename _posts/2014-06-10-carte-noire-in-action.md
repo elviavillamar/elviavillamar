@@ -26,7 +26,6 @@ hace referencia a la incorporación de nuevas tecnologías, formas de uso, nueva
 
 ### Images look great, too
 
-![Thumper](https://i.imgur.com/DMCHDqF.jpg)
 
 
 
