@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Carte Noire in Action
-date:       2014-06-10 12:31:19
+title:      Temas de interés
+date:       17/08/2020
 summary:    See what the different elements looks like.
 categories: jekyll
 thumbnail: cogs
