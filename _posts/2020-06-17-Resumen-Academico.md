@@ -11,13 +11,19 @@ tags:
 ---
 ### Resumen Académico 
 
-2003-2007 educación inicial; 
-2007-2012 primaria ;
-2012-2015 secundaria;
-2015-2019 Bachillerato; 
-2019-actualmente Universidad;
+2003-2007 educación inicial
+
+2007-2012 primaria 
+
+2012-2015 secundaria
+
+2015-2019 Bachillerato
+
+2019-actualmente Universidad
 
 ### -Cursos Realizados en:
--Word;
--Excel;
--Inglés;
+-Word
+
+-Excel
+
+-Inglés
