@@ -17,7 +17,7 @@ tags:
 2015-2019 Bachillerato 
 2019-actualmente Universidad
 
-### _Cursos Realizados en:
+### -Cursos Realizados en:
 Word
 Excel
 Inglés
