@@ -18,6 +18,6 @@ tags:
 2019-actualmente Universidad
 
 ### -Cursos Realizados en:
-Word
-Excel
-Inglés
+-Word
+-Excel
+-Inglés
