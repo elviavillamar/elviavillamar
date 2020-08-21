@@ -6,8 +6,8 @@ summary:    Transform your plain text into static websites and blogs. Simple, st
 categories: jekyll
 thumbnail: jekyll
 tags:
- - about
- - jekyll
+ - 
+ - 
 ---
 ### Resumen Académico 
 
