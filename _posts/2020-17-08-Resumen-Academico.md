@@ -5,7 +5,7 @@ date:       17/08/2020
 summary:    Transform your plain text into static websites and blogs. Simple, static, and blog-aware.
 categories: jekyll
 thumbnail: jekyll
-tags:
+
  - 
  - 
 ---
